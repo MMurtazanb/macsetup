@@ -78,3 +78,8 @@ chmod +x FILENAME #to change the permissions to execute
 
 # to install lfs (large file storage on git
 git lfs install
+
+# Nice little utility to visually see the cpu and ram usage on terminal using vtop
+brew install node 
+
+sudo npm install -g vtop
